@@ -1,2 +1,2 @@
 # Workshop02-reupdate
-Workshop02 in CodersLab
+Drugi warsztat w CodersLab
